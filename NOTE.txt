@@ -1,1 +1,5 @@
 https://storage.googleapis.com/chrome-for-testing-public/117.0.5938.62/linux64/chromedriver-linux64.zip
+
+
+
+https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz
