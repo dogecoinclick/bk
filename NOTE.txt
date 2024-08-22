@@ -8,6 +8,7 @@ https://www.mediafire.com/file/2i6tlmicnmch2l6/demo.jar/file
 
 https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz
 
+about:profiles
 
 https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 
