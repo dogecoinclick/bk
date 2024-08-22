@@ -2,6 +2,8 @@ https://storage.googleapis.com/chrome-for-testing-public/117.0.5938.62/linux64/c
 
 https://www.mediafire.com/file/2i6tlmicnmch2l6/demo.jar/file
 
+https://www.mediafire.com/file/7xnr8wpt6pc04sh/lib.zip/file
+
 https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz
 
 
