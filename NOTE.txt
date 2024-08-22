@@ -18,3 +18,12 @@ https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 	private static final int PROXY_PORT = 29798;
 	private static final String USERNAME = "tetneo90";
 	private static final String PASSWORD = "tetneo90";
+
+
+
+
+private static final String PROXY = "hndc36.proxyxoay.net:64366";
+	private static final String PROXY_HOST = "hndc36.proxyxoay.net";
+	private static final int PROXY_PORT = 64366;
+	private static final String USERNAME = "tetneo90";
+	private static final String PASSWORD = "tetneo90";
