@@ -27,3 +27,13 @@ private static final String PROXY = "hndc36.proxyxoay.net:64366";
 	private static final int PROXY_PORT = 64366;
 	private static final String USERNAME = "tetneo90";
 	private static final String PASSWORD = "tetneo90";
+
+
+
+
+//	private static final String PROXY = "hndc12.proxyxoay.net:44237";
+//	private static final String PROXY_HOST = "hndc12.proxyxoay.net";
+//	private static final int PROXY_PORT = 44237;
+//	private static final String USERNAME = "tetneo90";
+//	private static final String PASSWORD = "tetneo90";
+
