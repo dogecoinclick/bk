@@ -3,3 +3,13 @@ https://storage.googleapis.com/chrome-for-testing-public/117.0.5938.62/linux64/c
 
 
 https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz
+
+
+https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+
+
+	private static final String PROXY = "hndc2.proxyxoay.net:29798";
+	private static final String PROXY_HOST = "hndc2.proxyxoay.net";
+	private static final int PROXY_PORT = 29798;
+	private static final String USERNAME = "tetneo90";
+	private static final String PASSWORD = "tetneo90";
