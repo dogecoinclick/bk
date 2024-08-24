@@ -37,4 +37,13 @@ private static final String PROXY = "hndc36.proxyxoay.net:64366";
 //	private static final String USERNAME = "tetneo90";
 //	private static final String PASSWORD = "tetneo90";
 
+	private static final String PROXY = "hndc22.proxyxoay.net:44500";
+	private static final String PROXY_HOST = "hndc22.proxyxoay.net";
+	private static final int PROXY_PORT = 44500;
+	private static final String USERNAME = "tetneo90";
+	private static final String PASSWORD = "tetneo90";
+
+
+	//2f1263c8-16e5-43eb-917d-1f3f20d8ea4b
+
 https://www.mediafire.com/file/5tmrvdg34nm2wki/demo1.jar/file
