@@ -5,6 +5,8 @@ apt install unzip -y
 
 java -cp demo.jar:/root/Downloads/lib/* com.demo.Demo
 
+chmod 777 useragent.txt
+
 
 https://storage.googleapis.com/chrome-for-testing-public/117.0.5938.62/linux64/chromedriver-linux64.zip
 
