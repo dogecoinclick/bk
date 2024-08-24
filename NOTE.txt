@@ -1,6 +1,8 @@
 
 https://www.cherryservers.com/blog/how-to-install-java-on-ubuntu
 
+apt install unzip -y
+
 java -cp demo.jar:/root/Downloads/lib/* com.demo.Demo
 
 
