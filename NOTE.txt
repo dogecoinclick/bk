@@ -1,4 +1,7 @@
 
+
+https://www.mediafire.com/file/l74xywjfkf1f8zh/demo1-1.war/file
+
 https://www.cherryservers.com/blog/how-to-install-java-on-ubuntu
 
 apt install unzip -y
