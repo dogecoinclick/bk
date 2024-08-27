@@ -1,49 +1,40 @@
+about:profiles
 
 
-https://www.mediafire.com/file/l74xywjfkf1f8zh/demo1-1.war/file
+sudo add-apt-repository ppa:linuxuprising/java
 
-https://www.cherryservers.com/blog/how-to-install-java-on-ubuntu
+sudo apt update
+
+
+sudo apt install oracle-java17-installer oracle-java17-set-default
 
 apt install unzip -y
 
-java -cp demo.jar:/root/Downloads/lib/* com.demo.Demo
 
-chmod 777 useragent.txt
-
-
-https://storage.googleapis.com/chrome-for-testing-public/117.0.5938.62/linux64/chromedriver-linux64.zip
+https://www.cherryservers.com/blog/how-to-install-java-on-ubuntu
 
 https://www.mediafire.com/file/2i6tlmicnmch2l6/demo.jar/file
 
 
 https://www.mediafire.com/file/7xnr8wpt6pc04sh/lib.zip/file
 
-https://www.mediafire.com/file/2i6tlmicnmch2l6/demo.jar/file
-
-https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz
-
-about:profiles
-
-https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+chmod 777 useragent.txt
 
 
-	private static final String PROXY = "hndc2.proxyxoay.net:29798";
-	private static final String PROXY_HOST = "hndc2.proxyxoay.net";
-	private static final int PROXY_PORT = 29798;
-	private static final String USERNAME = "tetneo90";
-	private static final String PASSWORD = "tetneo90";
+java -cp demo.jar:/root/Downloads/lib/* com.demo.Demo
 
 
 
 
-private static final String PROXY = "hndc36.proxyxoay.net:64366";
+
+
+	private static final String PROXY = "hndc36.proxyxoay.net:64366";
 	private static final String PROXY_HOST = "hndc36.proxyxoay.net";
 	private static final int PROXY_PORT = 64366;
 	private static final String USERNAME = "tetneo90";
 	private static final String PASSWORD = "tetneo90";
 
-
-
+//	b5b5661b-32e2-49fe-88c5-8807321363d9
 
 //	private static final String PROXY = "hndc12.proxyxoay.net:44237";
 //	private static final String PROXY_HOST = "hndc12.proxyxoay.net";
@@ -51,11 +42,14 @@ private static final String PROXY = "hndc36.proxyxoay.net:64366";
 //	private static final String USERNAME = "tetneo90";
 //	private static final String PASSWORD = "tetneo90";
 
-	private static final String PROXY = "hndc22.proxyxoay.net:44500";
-	private static final String PROXY_HOST = "hndc22.proxyxoay.net";
-	private static final int PROXY_PORT = 44500;
-	private static final String USERNAME = "tetneo90";
-	private static final String PASSWORD = "tetneo90";
+//	1e0128c9-19a2-480f-95f0-0979de1a9a85
+
+
+//	private static final String PROXY = "hndc22.proxyxoay.net:44500";
+//	private static final String PROXY_HOST = "hndc22.proxyxoay.net";
+//	private static final int PROXY_PORT = 44500;
+//	private static final String USERNAME = "tetneo90";
+//	private static final String PASSWORD = "tetneo90";
 
 
 	//2f1263c8-16e5-43eb-917d-1f3f20d8ea4b
@@ -63,82 +57,21 @@ private static final String PROXY = "hndc36.proxyxoay.net:64366";
 https://www.mediafire.com/file/5tmrvdg34nm2wki/demo1.jar/file
 
 
-
-
-
-
-
-
-
-
-
-
 https://phoenixnap.com/kb/install-tomcat-9-on-centos-7
 
-yum -y install java-1.8.0-openjdk-devel
-
-useradd -m -U -d /opt/tomcat -s /bin/false tomcat
-
-cd /tmp
-
-wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.85/bin/apache-tomcat-9.0.85.tar.gz
-
-
-tar xzvf apache-tomcat-9*tar.gz -C /opt/tomcat --strip-components=1
-
-
-chown -R tomcat:tomcat /opt/tomcat
-
-sh -c 'chmod +x /opt/tomcat/bin/*.sh'
-
-readlink -f $(which java)
-
-/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-1.el7_9.x86_64/jre/bin/java
-
-
- yum install nano -y
-
-nano /etc/systemd/system/tomcat.service
+https://storage.googleapis.com/chrome-for-testing-public/117.0.5938.62/linux64/chromedriver-linux64.zip
 
 
 
-[Unit]
-Description=Apache Tomcat Web Application Container
-After=network.target
+https://www.mediafire.com/file/l74xywjfkf1f8zh/demo1-1.war/file
 
-[Service]
-Type=oneshot
-RemainAfterExit=yes
-
-User=tomcat
-Group=tomcat
-
-Environment="JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.402.b06-1.el7_9.x86_64/"
-Environment="JAVA_OPTS=-Djava.security.egd=file:///dev/urandom -Djava.awt.headless=true"
-Environment="CATALINA_BASE=/opt/tomcat"
-Environment="CATALINA_HOME=/opt/tomcat"
-Environment="CATALINA_PID=/opt/tomcat/temp/tomcat.pid"
-Environment="CATALINA_OPTS=-Xms512M -Xmx1024M -server -XX:+UseParallelGC"
-ExecStart=/opt/tomcat/bin/startup.sh
-ExecStop=/opt/tomcat/bin/shutdown.sh
-
-[Install]
-WantedBy=multi-user.target
+https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz
 
 
 
-systemctl daemon-reload
-
-systemctl enable tomcat
-
-systemctl start tomcat
-
-systemctl stop tomcat
-
-systemctl status tomcat
+https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 
 
-systemctl restart tomcat
 
 
 
