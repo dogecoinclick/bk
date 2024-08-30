@@ -54,6 +54,23 @@ java -cp demo.jar:/root/Downloads/lib/* com.demo.Demo
 
 	//2f1263c8-16e5-43eb-917d-1f3f20d8ea4b
 
+
+
+-------------------------------------------------------------------------------
+
+https://linkads.top/member/dashboard
+
+
+//	private static final String PROXY = "hndc40.proxyxoay.net:42836";
+//	private static final String PROXY_HOST = "hndc40.proxyxoay.net";
+//	private static final int PROXY_PORT = 42836;
+//	private static final String USERNAME = "tetneo90";
+//	private static final String PASSWORD = "tetneo90";
+
+
+	//725b7845-9dd9-4ebd-ba96-71b22846a223
+	
+
 https://www.mediafire.com/file/5tmrvdg34nm2wki/demo1.jar/file
 
 
