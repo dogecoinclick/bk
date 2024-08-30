@@ -89,6 +89,11 @@ https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.
 https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 
 
+firefox --version
+
+sudo apt upgrade
+
+
 
 
 
