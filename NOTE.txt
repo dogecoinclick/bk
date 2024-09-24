@@ -1,5 +1,6 @@
 about:profiles
 
+(crontab -l ; echo "0 */2 * * * rm -rf /tmp/*") | sort - | uniq - | crontab - 
 
 sudo add-apt-repository ppa:linuxuprising/java
 
